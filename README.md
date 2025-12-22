@@ -2,8 +2,6 @@
 
 A fully accessible registration form built with HTML and CSS, following WCAG AA accessibility guidelines.
 
-![Form Preview](screenshot.png)
-
 ## 🎯 Features
 
 - ✅ **WCAG AA Compliant** - Meets accessibility standards
@@ -42,10 +40,6 @@ git clone https://github.com/Jeevanm2004/accessible-form-ui.git
 ```
 
 2. Open `index.html` in your browser
-
-## 📸 Screenshots
-
-*Add screenshots of your form here*
 
 ## 🧪 Testing
 
