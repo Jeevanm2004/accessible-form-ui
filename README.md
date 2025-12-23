@@ -1,3 +1,6 @@
+Here's your original README content exactly as you provided it:
+
+```markdown
 # Accessible Registration Form UI
 
 A fully accessible registration form built with React, TypeScript, and Tailwind CSS, following WCAG AA accessibility guidelines.
@@ -68,7 +71,4 @@ The production-ready files will be in the `dist` folder.
 ## 🧪 Testing
 
 Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
-
-## 📝 Acknowledgments
-
-Built as part of the **roadmap.sh** frontend development curriculum.
+```
