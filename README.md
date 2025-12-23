@@ -35,7 +35,7 @@ A fully accessible registration form built with React, TypeScript, and Tailwind 
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://jeevanm2004.github.io/accessible-form-ui)
+__[View Live Demo](____https://jeevanm2004.github.io/accessible-form-ui____)__
 
 ## 📦 Installation
 
@@ -58,6 +58,7 @@ npm run dev
 4. Open your browser and navigate to `http://localhost:5173`
 
 ## 🏗️ Build for Production
+
 ```bash
 npm run build
 ```
@@ -66,65 +67,8 @@ The production-ready files will be in the `dist` folder.
 
 ## 🧪 Testing
 
-Tested with:
-- Chrome Lighthouse (Accessibility score: 100)
-- WAVE Accessibility Tool
-- Screen readers (NVDA, JAWS)
-- Keyboard-only navigation
-- Multiple browsers (Chrome, Firefox, Safari, Edge)
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
 
-## 📁 Project Structure
-```
-accessible-form-ui/
-├── src/
-│   ├── components/       # React components
-│   ├── App.tsx          # Main application component
-│   └── index.css        # Global styles
-├── public/              # Static assets
-├── index.html          # HTML entry point
-└── package.json        # Dependencies and scripts
-```
+## 📝 Acknowledgments
 
-## 🎨 Key Components
-
-- **Form Fields** - Full name, email, password, confirm password
-- **Progress Bar** - Real-time completion tracking
-- **Requirements Checklist** - Password strength validation
-- **Toggle Buttons** - Show/hide password functionality
-- **Error States** - Validation feedback (ready for JavaScript enhancement)
-
-## 📝 License
-
-MIT License - feel free to use for learning purposes
-
-## 🤝 Contributing
-
-Contributions welcome! Feel free to submit issues or pull requests.
-
-## 🌟 Acknowledgments
-
-Built as part of the [roadmap.sh](https://roadmap.sh) frontend development curriculum.
-
----
-
-Built with ❤️ by [Jeevan](https://github.com/Jeevanm2004)
-```
-
----
-
-## **Topics to Add in GitHub Settings:**
-```
-accessibility
-react
-typescript
-tailwind-css
-wcag
-forms
-a11y
-aria
-keyboard-navigation
-screen-reader
-responsive-design
-frontend
-ui-components
-vite
+Built as part of the **roadmap.sh** frontend development curriculum.
