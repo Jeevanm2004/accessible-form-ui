@@ -1,6 +1,6 @@
 # Accessible Registration Form UI
 
-A fully accessible registration form built with React, TypeScript, and Tailwind CSS, following WCAG AA accessibility guidelines.
+A fully accessible registration form UI built with React, TypeScript, and Tailwind CSS, following WCAG AA guidelines. Features keyboard navigation, screen reader support, password validation, and progress tracking.
 
 ## 🎯 Features
 
@@ -35,7 +35,7 @@ A fully accessible registration form built with React, TypeScript, and Tailwind 
 
 ## 🚀 Live Demo
 
-__[View Live Demo](____https://jeevanm2004.github.io/accessible-form-ui____)__
+[View Live Demo](https://jeevanm2004.github.io/accessible-form-ui)
 
 ## 📦 Installation
 
@@ -58,6 +58,7 @@ npm run dev
 4. Open your browser and navigate to `http://localhost:5173`
 
 ## 🏗️ Build for Production
+
 ```bash
 npm run build
 ```
